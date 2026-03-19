@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+.vs/TestRepo
+*.user
+*.suo
+*.log
+appsettings.Development.json
